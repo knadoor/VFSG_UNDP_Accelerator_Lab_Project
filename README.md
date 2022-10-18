@@ -11,7 +11,7 @@ I hope this repository acts as a good experience for others to learn from.
 
 The cleaned up dataset can be loaded into a BI tool such as Tableau, Power BI etc.
 
-If you have any questions regarding the script, any suggestions or need consulting advice on any data project, feel free to contact me on my [LinkedIn profile](https://github.com/knadoor/VFSG_UNDP_Accelerator_Lab_Project/blob/main/Output/vfsg_undp_clean.xlsx).
+If you have any questions regarding the script, any suggestions or need consulting advice on any data project, feel free to contact me on my [LinkedIn profile](https://au.linkedin.com/in/nadoork).
 
 Take care!
 
